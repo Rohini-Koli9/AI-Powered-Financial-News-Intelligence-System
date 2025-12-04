@@ -1,0 +1,308 @@
+[
+  {
+    "id": "N1",
+    "title": "HDFC Bank announces 15% dividend, board approves stock buyback",
+    "content": "HDFC Bank's board approved a 15% dividend and cleared a share buyback program citing strong capital position and earnings momentum. Analysts expect capital return to support shareholder value.",
+    "source": "MoneyControl",
+    "published_at": "2024-03-15T10:30:00Z",
+    "url": "https://example.com/hdfc-dividend-buyback",
+    "category": "Banking"
+  },
+  {
+    "id": "N2",
+    "title": "RBI raises repo rate by 25bps to 6.75%, citing inflation concerns",
+    "content": "The Reserve Bank of India increased the benchmark repo rate by 25 basis points to 6.75% in a move aimed at tackling persistent inflation pressures. The central bank signaled a vigilant stance.",
+    "source": "Economic Times",
+    "published_at": "2024-03-16T06:45:00Z",
+    "url": "https://example.com/rbi-repo-hike",
+    "category": "Regulatory"
+  },
+  {
+    "id": "N3",
+    "title": "ICICI Bank opens 500 new branches across Tier-2 cities",
+    "content": "ICICI Bank expanded its footprint by inaugurating 500 branches across Tier-2 and Tier-3 locations, targeting retail and MSME loan growth. The bank plans to deepen presence in underpenetrated markets.",
+    "source": "Business Standard",
+    "published_at": "2024-03-17T08:00:00Z",
+    "url": "https://example.com/icici-branches",
+    "category": "Banking"
+  },
+  {
+    "id": "N4",
+    "title": "Banking sector NPAs fall to 5-year low; credit growth at 16%",
+    "content": "India's banking sector reported gross NPAs at a five-year low while credit growth accelerated to 16%, supported by strong retail and services demand. Analysts expect asset quality to remain benign.",
+    "source": "LiveMint",
+    "published_at": "2024-03-18T09:30:00Z",
+    "url": "https://example.com/banking-npa-credit",
+    "category": "Banking"
+  },
+  {
+    "id": "N5",
+    "title": "TCS wins $1.2B deal from European retail chain to modernize IT",
+    "content": "Tata Consultancy Services bagged a multi-year $1.2 billion contract from a major European retailer for cloud migration and application modernization. The deal strengthens TCS's presence in Europe.",
+    "source": "MoneyControl",
+    "published_at": "2024-03-19T11:15:00Z",
+    "url": "https://example.com/tcs-europe-deal",
+    "category": "IT"
+  },
+  {
+    "id": "N6",
+    "title": "Infosys to hire 20,000 freshers, focuses on AI services",
+    "content": "Infosys announced plans to hire 20,000 graduates in FY25 while ramping up investments in AI and automation services. Management highlighted rising enterprise demand for generative AI solutions.",
+    "source": "Economic Times",
+    "published_at": "2024-03-20T07:00:00Z",
+    "url": "https://example.com/infy-hiring-ai",
+    "category": "IT"
+  },
+  {
+    "id": "N7",
+    "title": "Wipro launches cloud-native cybersecurity platform for BFSI",
+    "content": "Wipro unveiled a cloud-native cybersecurity platform tailored for BFSI clients, integrating threat detection, response automation, and compliance features to reduce cyber risk.",
+    "source": "Business Standard",
+    "published_at": "2024-03-20T12:00:00Z",
+    "url": "https://example.com/wipro-cyber-bfsi",
+    "category": "IT"
+  },
+  {
+    "id": "N8",
+    "title": "HCL Tech partners with Nvidia to expand AI solutions",
+    "content": "HCLTech announced a strategic partnership with Nvidia to co-develop industry-specific AI solutions, including for manufacturing and healthcare, leveraging Nvidia's accelerated computing.",
+    "source": "LiveMint",
+    "published_at": "2024-03-21T09:00:00Z",
+    "url": "https://example.com/hcl-nvidia",
+    "category": "IT"
+  },
+  {
+    "id": "N9",
+    "title": "Sun Pharma receives USFDA approval for generic oncology drug",
+    "content": "Sun Pharmaceutical Industries received final USFDA approval for a generic version of a widely used oncology drug. The product will be launched in the US market this quarter.",
+    "source": "MoneyControl",
+    "published_at": "2024-03-22T06:20:00Z",
+    "url": "https://example.com/sunpharma-usfda",
+    "category": "Pharma"
+  },
+  {
+    "id": "N10",
+    "title": "Dr. Reddy's to acquire rights to novel migraine therapy in India",
+    "content": "Dr. Reddy's Laboratories signed a licensing agreement to commercialize a novel migraine therapy in India, expanding its specialty portfolio and strengthening neurology presence.",
+    "source": "Economic Times",
+    "published_at": "2024-03-22T10:40:00Z",
+    "url": "https://example.com/drreddy-migraine",
+    "category": "Pharma"
+  },
+  {
+    "id": "N11",
+    "title": "Cipla launches respiratory inhaler in EU market",
+    "content": "Cipla launched a new respiratory inhaler across select EU markets, aiming to tap chronic obstructive pulmonary disease management. The company continues to scale its global respiratory franchise.",
+    "source": "Business Standard",
+    "published_at": "2024-03-23T08:10:00Z",
+    "url": "https://example.com/cipla-eu-inhaler",
+    "category": "Pharma"
+  },
+  {
+    "id": "N12",
+    "title": "Tata Motors reports record EV sales, expands charging network",
+    "content": "Tata Motors reported record quarterly EV sales, attributing momentum to new models and expanded charging infrastructure across key cities.",
+    "source": "LiveMint",
+    "published_at": "2024-03-24T09:00:00Z",
+    "url": "https://example.com/tatamotors-ev-sales",
+    "category": "Auto"
+  },
+  {
+    "id": "N13",
+    "title": "Maruti Suzuki launches new compact SUV with ADAS features",
+    "content": "Maruti introduced a compact SUV with advanced driver-assistance systems, targeting the fast-growing premium segment. Bookings open nationwide.",
+    "source": "MoneyControl",
+    "published_at": "2024-03-24T11:30:00Z",
+    "url": "https://example.com/maruti-compact-suv",
+    "category": "Auto"
+  },
+  {
+    "id": "N14",
+    "title": "Mahindra & Mahindra unveils electric tractor prototype",
+    "content": "M&M showcased an electric tractor prototype aimed at reducing farm operating costs and emissions. Pilot programs to commence in select states.",
+    "source": "Economic Times",
+    "published_at": "2024-03-25T07:50:00Z",
+    "url": "https://example.com/mandm-electric-tractor",
+    "category": "Auto"
+  },
+  {
+    "id": "N15",
+    "title": "Reliance Industries to invest in green hydrogen ecosystem",
+    "content": "Reliance announced plans to invest significantly in green hydrogen production and distribution, aligning with its clean energy roadmap and net-zero targets.",
+    "source": "Business Standard",
+    "published_at": "2024-03-25T10:15:00Z",
+    "url": "https://example.com/reliance-green-h2",
+    "category": "Energy"
+  },
+  {
+    "id": "N16",
+    "title": "ONGC discovers new oil field in Krishna-Godavari basin",
+    "content": "Oil and Natural Gas Corporation reported a fresh discovery in the KG basin expected to enhance domestic crude output after appraisal drilling.",
+    "source": "LiveMint",
+    "published_at": "2024-03-26T06:45:00Z",
+    "url": "https://example.com/ongc-kg-discovery",
+    "category": "Energy"
+  },
+  {
+    "id": "N17",
+    "title": "NTPC commissions 500 MW solar plant in Rajasthan",
+    "content": "NTPC commissioned a 500 MW solar project in Rajasthan, taking its total renewable capacity to a new high and supporting India's clean energy goals.",
+    "source": "MoneyControl",
+    "published_at": "2024-03-26T09:30:00Z",
+    "url": "https://example.com/ntpc-rajasthan-solar",
+    "category": "Energy"
+  },
+  {
+    "id": "N18",
+    "title": "India's CPI inflation eases to 5.1% in February",
+    "content": "Headline CPI inflation cooled to 5.1% in February led by moderation in food prices. Economists expect the RBI to keep a cautious stance while monitoring core inflation.",
+    "source": "Economic Times",
+    "published_at": "2024-03-27T05:40:00Z",
+    "url": "https://example.com/india-cpi-eases",
+    "category": "Macro"
+  },
+  {
+    "id": "N19",
+    "title": "IIP growth accelerates to 7.5% on manufacturing rebound",
+    "content": "Industrial production picked up to 7.5% supported by strong manufacturing output and electricity generation. Analysts see signs of capex cycle revival.",
+    "source": "Business Standard",
+    "published_at": "2024-03-27T11:00:00Z",
+    "url": "https://example.com/iip-accelerates",
+    "category": "Macro"
+  },
+  {
+    "id": "N20",
+    "title": "Forex reserves hit record high of $650 billion",
+    "content": "India's foreign exchange reserves climbed to a fresh record of $650 billion amid robust capital inflows and steady current account dynamics.",
+    "source": "LiveMint",
+    "published_at": "2024-03-28T07:30:00Z",
+    "url": "https://example.com/forex-record",
+    "category": "Macro"
+  },
+  {
+    "id": "N21",
+    "title": "Reserve Bank hikes interest rates by 0.25% in surprise move",
+    "content": "In an unscheduled decision, the Reserve Bank lifted the policy rate by 0.25 percentage points to curb inflationary pressures. Markets priced in a hawkish stance.",
+    "source": "MoneyControl",
+    "published_at": "2024-03-16T07:00:00Z",
+    "url": "https://example.com/rbi-hikes-025",
+    "category": "Regulatory"
+  },
+  {
+    "id": "N22",
+    "title": "Central bank raises policy rate 25bps, signals hawkish stance",
+    "content": "The central bank increased the policy repo rate by 25 basis points and indicated it would remain vigilant against inflation risks, keeping liquidity conditions tight.",
+    "source": "Business Standard",
+    "published_at": "2024-03-16T07:05:00Z",
+    "url": "https://example.com/central-bank-25bps",
+    "category": "Regulatory"
+  },
+  {
+    "id": "N23",
+    "title": "HDFC Bank to return cash via dividend and buyback",
+    "content": "HDFC Bank said it will return capital through a double-barreled approach: a 15% dividend and a board-approved share repurchase, supported by robust profitability.",
+    "source": "Economic Times",
+    "published_at": "2024-03-15T10:40:00Z",
+    "url": "https://example.com/hdfc-capital-return",
+    "category": "Banking"
+  },
+  {
+    "id": "N24",
+    "title": "Bank regulator tweaks liquidity norms for NBFCs",
+    "content": "The RBI announced changes to liquidity coverage norms for systemically important NBFCs to strengthen resilience during stress scenarios.",
+    "source": "LiveMint",
+    "published_at": "2024-03-29T09:15:00Z",
+    "url": "https://example.com/rbi-nbfc-liquidity",
+    "category": "Regulatory"
+  },
+  {
+    "id": "N25",
+    "title": "Axis Bank raises $500 million via sustainable bonds",
+    "content": "Axis Bank issued $500 million in sustainable bonds to fund green and social projects, receiving strong demand from global investors.",
+    "source": "MoneyControl",
+    "published_at": "2024-03-30T06:25:00Z",
+    "url": "https://example.com/axis-sustainable-bonds",
+    "category": "Banking"
+  },
+  {
+    "id": "N26",
+    "title": "Kotak Mahindra Bank launches premium wealth platform",
+    "content": "Kotak Mahindra Bank introduced a premium wealth management platform offering curated products and advisory for HNI clients.",
+    "source": "Business Standard",
+    "published_at": "2024-03-31T08:05:00Z",
+    "url": "https://example.com/kotak-wealth-platform",
+    "category": "Banking"
+  },
+  {
+    "id": "N27",
+    "title": "SBI reports record UPI transactions on festival weekend",
+    "content": "State Bank of India processed record Unified Payments Interface transactions during the festival weekend, reflecting strong digital payment adoption.",
+    "source": "LiveMint",
+    "published_at": "2024-04-01T10:00:00Z",
+    "url": "https://example.com/sbi-upi-record",
+    "category": "Banking"
+  },
+  {
+    "id": "N28",
+    "title": "Infosys expands partnership with Microsoft for cloud transformation",
+    "content": "Infosys deepened its collaboration with Microsoft to accelerate enterprises' cloud transformation using Azure, including data modernization and AI-infused applications.",
+    "source": "Economic Times",
+    "published_at": "2024-04-02T07:20:00Z",
+    "url": "https://example.com/infy-azure",
+    "category": "IT"
+  },
+  {
+    "id": "N29",
+    "title": "RBI keeps policy rate unchanged, maintains withdrawal of accommodation",
+    "content": "The Reserve Bank of India left the policy rate unchanged and reiterated its stance of withdrawal of accommodation while monitoring inflation risks.",
+    "source": "Business Standard",
+    "published_at": "2024-04-05T06:35:00Z",
+    "url": "https://example.com/rbi-hold",
+    "category": "Regulatory"
+  },
+  {
+    "id": "N30",
+    "title": "TCS bags mega deal from European retailer for cloud migration",
+    "content": "TCS secured a multi-billion, multi-year engagement with a leading European retailer to migrate applications to cloud and modernize IT landscape.",
+    "source": "LiveMint",
+    "published_at": "2024-03-19T11:16:00Z",
+    "url": "https://example.com/tcs-mega-europe",
+    "category": "IT"
+  },
+  {
+    "id": "N31",
+    "title": "CPI inflation at 5.1% offers relief; food prices ease",
+    "content": "Consumer inflation moderated to 5.1% as food inflation cooled. Economists believe the RBI could gain more confidence before easing policy.",
+    "source": "MoneyControl",
+    "published_at": "2024-03-27T05:45:00Z",
+    "url": "https://example.com/cpi-5-1",
+    "category": "Macro"
+  },
+  {
+    "id": "N32",
+    "title": "Reserve Bank of India increases repo rate by 25 basis points",
+    "content": "RBI increased the repo rate by 25 bps in a move to tackle inflation risks and maintain price stability, signaling a hawkish bias.",
+    "source": "LiveMint",
+    "published_at": "2024-03-16T06:50:00Z",
+    "url": "https://example.com/rbi-increases-25bps",
+    "category": "Regulatory"
+  },
+  {
+    "id": "N33",
+    "title": "HDFC Bank declares dividend; board okays share repurchase",
+    "content": "HDFC Bank declared a 15% dividend and approved a stock buyback, citing strong capital adequacy and profitability metrics.",
+    "source": "LiveMint",
+    "published_at": "2024-03-15T10:35:00Z",
+    "url": "https://example.com/hdfc-dividend-repurchase",
+    "category": "Banking"
+  },
+  {
+    "id": "N34",
+    "title": "Banking sector update: NPAs at 5-year low; credit growth robust",
+    "content": "Sector-wide update indicates NPAs declined to a five-year low while loan growth remained strong at 16%, supported by retail demand and infra push.",
+    "source": "Economic Times",
+    "published_at": "2024-03-18T09:32:00Z",
+    "url": "https://example.com/banking-update-npa",
+    "category": "Banking"
+  }
+]

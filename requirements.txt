@@ -1,0 +1,14 @@
+langgraph
+langchain
+langchain-community
+sentence-transformers
+chromadb
+spacy
+fastapi
+uvicorn
+pydantic
+feedparser
+httpx
+python-dotenv
+pytest
+streamlit

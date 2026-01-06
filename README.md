@@ -30,7 +30,7 @@ An end-to-end, LangGraph-powered multi-agent system that processes real-time fin
 - **Live API**: RESTful endpoints for integration with external systems
 - **Interactive Demos**: Both CLI and Streamlit web interfaces
 
-## 🛠 Tech Stack
+## Tech Stack
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|

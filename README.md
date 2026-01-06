@@ -1,17 +1,17 @@
-# 🚀 AI-Powered Financial News Intelligence System
+# AI-Powered Financial News Intelligence System
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [![LangGraph](https://img.shields.io/badge/LangGraph-Multi--Agent-orange.svg)](https://langchain-ai.github.io/langgraph/)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-> 🧠 **Transform financial news into actionable intelligence with advanced AI agents**
+> **Transform financial news into actionable intelligence with advanced AI agents**
 
 An end-to-end, LangGraph-powered multi-agent system that processes real-time financial news through intelligent deduplication, entity extraction, stock impact mapping, and hybrid semantic search. Built for financial analysts, traders, and researchers who need instant insights from market news.
 
-## ✨ Key Features
+## Key Features
 
-### 🤖 **Multi-Agent Intelligence**
+### **Multi-Agent Intelligence**
 - **News Ingestion Agent**: Automatically fetches and normalizes RSS feeds and mock data
 - **Deduplication Agent**: Eliminates duplicate content using advanced embedding similarity
 - **Entity Extraction Agent**: Identifies companies, sectors, regulators, people, and events
@@ -19,13 +19,13 @@ An end-to-end, LangGraph-powered multi-agent system that processes real-time fin
 - **Storage & Indexing Agent**: Manages data persistence across SQLite and ChromaDB
 - **Query Processing Agent**: Delivers intelligent search with context expansion
 
-### 🔍 **Advanced Search Capabilities**
+### **Advanced Search Capabilities**
 - **Semantic Search**: Find related content using sentence-transformer embeddings
 - **Entity-Based Search**: Query by company names, stock symbols, or sectors
 - **Hybrid Search**: Combine semantic and entity-based approaches for optimal results
 - **Context Expansion**: Automatically broaden search scope with related entities
 
-### 📊 **Real-Time Processing**
+### **Real-Time Processing**
 - **Automatic RSS Polling**: Continuous news ingestion from configured feeds
 - **Live API**: RESTful endpoints for integration with external systems
 - **Interactive Demos**: Both CLI and Streamlit web interfaces
@@ -34,16 +34,16 @@ An end-to-end, LangGraph-powered multi-agent system that processes real-time fin
 
 | Component | Technology | Purpose |
 |-----------|------------|---------|
-| **Agent Framework** | 🦜 LangGraph | Multi-agent workflow orchestration |
-| **Embeddings** | 🔄 sentence-transformers (all-MiniLM-L6-v2) | Semantic similarity and search |
-| **Vector Database** | 🗃️ ChromaDB | High-performance vector storage and retrieval |
-| **Structured Database** | 🗄️ SQLite | Article metadata and entity relationships |
-| **NER Processing** | 🧠 spaCy (en_core_web_lg) | Named entity recognition and normalization |
-| **API Framework** | ⚡ FastAPI + Uvicorn | High-performance REST API |
-| **Web Interface** | 🌊 Streamlit | Interactive demo and visualization |
-| **Python Version** | 🐍 3.10+ | Core runtime environment |
+| **Agent Framework** | LangGraph | Multi-agent workflow orchestration |
+| **Embeddings** | sentence-transformers (all-MiniLM-L6-v2) | Semantic similarity and search |
+| **Vector Database** | ChromaDB | High-performance vector storage and retrieval |
+| **Structured Database** | SQLite | Article metadata and entity relationships |
+| **NER Processing** | spaCy (en_core_web_lg) | Named entity recognition and normalization |
+| **API Framework** | FastAPI + Uvicorn | High-performance REST API |
+| **Web Interface** | Streamlit | Interactive demo and visualization |
+| **Python Version** | 3.10+ | Core runtime environment |
 
-## 🚀 Quick Start
+## Quick Start
 
 ### Prerequisites
 - Python 3.10 or higher
@@ -85,13 +85,13 @@ An end-to-end, LangGraph-powered multi-agent system that processes real-time fin
 
 ### Running the System
 
-#### 🌐 Start the API Server
+#### Start the API Server
 ```bash
 uvicorn src.main:app --reload --port 8000
 ```
 **Health Check**: `GET http://localhost:8000/api/v1/health`
 
-#### 🎯 Quick Demo with Mock Data
+#### Quick Demo with Mock Data
 ```bash
 # Ingest sample financial news
 python demo/cli_demo.py ingest-mock
@@ -102,7 +102,7 @@ python demo/cli_demo.py query "Reserve Bank of India policy"
 python demo/cli_demo.py query "IT sector stocks"
 ```
 
-#### 🌊 Interactive Web Interface
+#### Interactive Web Interface
 ```bash
 # Set Python path for module discovery
 export PYTHONPATH="."  # macOS/Linux
@@ -113,7 +113,7 @@ streamlit run demo/web_demo.py
 ```
 Visit `http://localhost:8501` for the interactive interface.
 
-## 📖 Usage Examples
+## Usage Examples
 
 ### CLI Commands
 ```bash
@@ -148,16 +148,16 @@ curl http://localhost:8000/api/v1/stats
 curl http://localhost:8000/api/v1/entities
 ```
 
-## 🏗 System Architecture
+## System Architecture
 
 ### Agent Workflows
 
-**📰 News Processing Pipeline**
+**News Processing Pipeline**
 ```
 RSS/Mock Data → Deduplication → Entity Extraction → Stock Impact Analysis → Storage
 ```
 
-**🔍 Query Processing Pipeline**
+**Query Processing Pipeline**
 ```
 User Query → Context Expansion → Hybrid Search → Ranking → Explanation
 ```
@@ -170,7 +170,7 @@ User Query → Context Expansion → Hybrid Search → Ranking → Explanation
 5. **Indexing**: Articles are stored in SQLite, embeddings in ChromaDB
 6. **Query Processing**: Natural language queries are expanded and searched using hybrid approach
 
-## 🧪 Testing
+## Testing
 
 ```bash
 # Run all tests
@@ -183,7 +183,7 @@ pytest tests/test_query_system.py
 pytest tests/test_api.py
 ```
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 financial-news-intelligence/
@@ -209,7 +209,7 @@ financial-news-intelligence/
 └── ARCHITECTURE.md        # Detailed technical architecture
 ```
 
-## 🔧 Configuration
+## Configuration
 
 ### Environment Variables (.env)
 ```bash
@@ -233,24 +233,24 @@ RSS_POLL_ENABLED=true
 RSS_POLL_INTERVAL_SEC=300  # 5 minutes
 ```
 
-## 🎯 Use Cases
+## Use Cases
 
-### 👨‍💼 For Financial Analysts
+### For Financial Analysts
 - **Market Monitoring**: Track news affecting specific stocks or sectors
 - **Competitive Intelligence**: Monitor competitor mentions and developments
 - **Regulatory Tracking**: Stay updated on regulatory changes and announcements
 
-### 📈 For Traders
+### For Traders
 - **Event Detection**: Identify market-moving news in real-time
 - **Sentiment Analysis**: Gauge market sentiment through news aggregation
 - **Risk Assessment**: Monitor news affecting portfolio holdings
 
-### 🔬 For Researchers
+### For Researchers
 - **Trend Analysis**: Study news patterns and entity relationships
 - **Event Studies**: Analyze market reactions to specific news events
 - **Data Mining**: Extract structured data from unstructured news
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
 
@@ -260,22 +260,22 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - **LangChain Team** for the excellent LangGraph framework
 - **spaCy** for powerful NER capabilities
 - **Sentence Transformers** for high-quality embeddings
 - **ChromaDB** for efficient vector storage
 
-## 📞 Support
+## Support
 
-- 📧 Email: [your-email@example.com]
-- 🐛 Issues: [GitHub Issues](https://github.com/Rohini-Koli9/AI-Powered-Financial-News-Intelligence-System/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/Rohini-Koli9/AI-Powered-Financial-News-Intelligence-System/discussions)
+- Email: [rohinikoli076@gmail.com]
+- Issues: [GitHub Issues](https://github.com/Rohini-Koli9/AI-Powered-Financial-News-Intelligence-System/issues)
+- Discussions: [GitHub Discussions](https://github.com/Rohini-Koli9/AI-Powered-Financial-News-Intelligence-System/discussions)
 
 ---
 
